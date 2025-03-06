@@ -25,3 +25,14 @@ cd knowledge-sharing-8-3-2568
 ```bash
 npm install
 ```
+
+### 4️⃣ **build โปรเจคครั้งแรก**
+```bash
+npm run build
+```
+
+### 5️⃣ **รันโปรเจค**
+```bash
+npm run start
+```
+
