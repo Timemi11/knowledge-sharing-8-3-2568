@@ -85,22 +85,20 @@ export class MessageServices {
     //       },
     //     ],
     //   })
-    // }
-
-
-
-    await this.client.pushMessage({
-      to: userId,
-      messages: [
-        {
-          type: "flex",
-          altText: "flexMessage",
-          contents: flexContents
-        },
-      ],
-    });
-  }
-
+    // }else
+    //{
+        await this.client.pushMessage({
+            to: userId,
+            messages: [
+              {
+                type: "flex",
+                altText: "flexMessage",
+                contents: flexContents
+              },
+            ],
+          });
+        }
+    //}
 
 
 
