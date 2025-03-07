@@ -5,7 +5,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-16.x-green?style=for-the-badge&logo=node.js) 
 ![Express.js](https://img.shields.io/badge/Express.js-4.x-black?style=for-the-badge&logo=express)
 
-📌 **โครงการนี้เป็นโปรเจคที่ใช้ Knowledge Sharing เนื่องในวันที่ 6/3/2568 ในหัวข้อ Liff&Messaging API**
+📌 **โครงการนี้เป็นโปรเจคที่ใช้ Knowledge Sharing เนื่องในวันที่ 8/3/2568 ในหัวข้อ Liff&Messaging API**
 
 ---
 
